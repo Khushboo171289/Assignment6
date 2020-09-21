@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\DesignShortUrl\DesignShortUrl\bin\Debug\netcoreapp3.1\DesignShortUrl.exe
+C:\Users\khush\source\repos\DesignShortUrl\DesignShortUrl\bin\Debug\netcoreapp3.1\DesignShortUrl.deps.json
+C:\Users\khush\source\repos\DesignShortUrl\DesignShortUrl\bin\Debug\netcoreapp3.1\DesignShortUrl.runtimeconfig.json
+C:\Users\khush\source\repos\DesignShortUrl\DesignShortUrl\bin\Debug\netcoreapp3.1\DesignShortUrl.runtimeconfig.dev.json
+C:\Users\khush\source\repos\DesignShortUrl\DesignShortUrl\bin\Debug\netcoreapp3.1\DesignShortUrl.dll
+C:\Users\khush\source\repos\DesignShortUrl\DesignShortUrl\bin\Debug\netcoreapp3.1\DesignShortUrl.pdb
+C:\Users\khush\source\repos\DesignShortUrl\DesignShortUrl\obj\Debug\netcoreapp3.1\DesignShortUrl.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\DesignShortUrl\DesignShortUrl\obj\Debug\netcoreapp3.1\DesignShortUrl.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\DesignShortUrl\DesignShortUrl\obj\Debug\netcoreapp3.1\DesignShortUrl.AssemblyInfo.cs
+C:\Users\khush\source\repos\DesignShortUrl\DesignShortUrl\obj\Debug\netcoreapp3.1\DesignShortUrl.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\DesignShortUrl\DesignShortUrl\obj\Debug\netcoreapp3.1\DesignShortUrl.dll
+C:\Users\khush\source\repos\DesignShortUrl\DesignShortUrl\obj\Debug\netcoreapp3.1\DesignShortUrl.pdb
+C:\Users\khush\source\repos\DesignShortUrl\DesignShortUrl\obj\Debug\netcoreapp3.1\DesignShortUrl.genruntimeconfig.cache

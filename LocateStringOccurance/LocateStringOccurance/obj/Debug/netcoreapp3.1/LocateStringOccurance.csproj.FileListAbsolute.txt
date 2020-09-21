@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\LocateStringOccurance\LocateStringOccurance\bin\Debug\netcoreapp3.1\LocateStringOccurance.exe
+C:\Users\khush\source\repos\LocateStringOccurance\LocateStringOccurance\bin\Debug\netcoreapp3.1\LocateStringOccurance.deps.json
+C:\Users\khush\source\repos\LocateStringOccurance\LocateStringOccurance\bin\Debug\netcoreapp3.1\LocateStringOccurance.runtimeconfig.json
+C:\Users\khush\source\repos\LocateStringOccurance\LocateStringOccurance\bin\Debug\netcoreapp3.1\LocateStringOccurance.runtimeconfig.dev.json
+C:\Users\khush\source\repos\LocateStringOccurance\LocateStringOccurance\bin\Debug\netcoreapp3.1\LocateStringOccurance.dll
+C:\Users\khush\source\repos\LocateStringOccurance\LocateStringOccurance\bin\Debug\netcoreapp3.1\LocateStringOccurance.pdb
+C:\Users\khush\source\repos\LocateStringOccurance\LocateStringOccurance\obj\Debug\netcoreapp3.1\LocateStringOccurance.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\LocateStringOccurance\LocateStringOccurance\obj\Debug\netcoreapp3.1\LocateStringOccurance.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\LocateStringOccurance\LocateStringOccurance\obj\Debug\netcoreapp3.1\LocateStringOccurance.AssemblyInfo.cs
+C:\Users\khush\source\repos\LocateStringOccurance\LocateStringOccurance\obj\Debug\netcoreapp3.1\LocateStringOccurance.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\LocateStringOccurance\LocateStringOccurance\obj\Debug\netcoreapp3.1\LocateStringOccurance.dll
+C:\Users\khush\source\repos\LocateStringOccurance\LocateStringOccurance\obj\Debug\netcoreapp3.1\LocateStringOccurance.pdb
+C:\Users\khush\source\repos\LocateStringOccurance\LocateStringOccurance\obj\Debug\netcoreapp3.1\LocateStringOccurance.genruntimeconfig.cache

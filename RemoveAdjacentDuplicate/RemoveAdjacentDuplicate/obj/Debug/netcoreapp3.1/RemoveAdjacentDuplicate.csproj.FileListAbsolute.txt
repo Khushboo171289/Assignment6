@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\RemoveAdjacentDuplicate\RemoveAdjacentDuplicate\obj\Debug\netcoreapp3.1\RemoveAdjacentDuplicate.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\RemoveAdjacentDuplicate\RemoveAdjacentDuplicate\obj\Debug\netcoreapp3.1\RemoveAdjacentDuplicate.AssemblyInfo.cs
+C:\Users\khush\source\repos\RemoveAdjacentDuplicate\RemoveAdjacentDuplicate\obj\Debug\netcoreapp3.1\RemoveAdjacentDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\RemoveAdjacentDuplicate\RemoveAdjacentDuplicate\bin\Debug\netcoreapp3.1\RemoveAdjacentDuplicate.exe
+C:\Users\khush\source\repos\RemoveAdjacentDuplicate\RemoveAdjacentDuplicate\bin\Debug\netcoreapp3.1\RemoveAdjacentDuplicate.deps.json
+C:\Users\khush\source\repos\RemoveAdjacentDuplicate\RemoveAdjacentDuplicate\bin\Debug\netcoreapp3.1\RemoveAdjacentDuplicate.runtimeconfig.json
+C:\Users\khush\source\repos\RemoveAdjacentDuplicate\RemoveAdjacentDuplicate\bin\Debug\netcoreapp3.1\RemoveAdjacentDuplicate.runtimeconfig.dev.json
+C:\Users\khush\source\repos\RemoveAdjacentDuplicate\RemoveAdjacentDuplicate\bin\Debug\netcoreapp3.1\RemoveAdjacentDuplicate.dll
+C:\Users\khush\source\repos\RemoveAdjacentDuplicate\RemoveAdjacentDuplicate\bin\Debug\netcoreapp3.1\RemoveAdjacentDuplicate.pdb
+C:\Users\khush\source\repos\RemoveAdjacentDuplicate\RemoveAdjacentDuplicate\obj\Debug\netcoreapp3.1\RemoveAdjacentDuplicate.dll
+C:\Users\khush\source\repos\RemoveAdjacentDuplicate\RemoveAdjacentDuplicate\obj\Debug\netcoreapp3.1\RemoveAdjacentDuplicate.pdb
+C:\Users\khush\source\repos\RemoveAdjacentDuplicate\RemoveAdjacentDuplicate\obj\Debug\netcoreapp3.1\RemoveAdjacentDuplicate.genruntimeconfig.cache
+C:\Users\khush\source\repos\RemoveAdjacentDuplicate\RemoveAdjacentDuplicate\obj\Debug\netcoreapp3.1\RemoveAdjacentDuplicate.csprojAssemblyReference.cache

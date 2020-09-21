@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\RomantoInteger\RomantoInteger\bin\Debug\netcoreapp3.1\RomantoInteger.exe
+C:\Users\khush\source\repos\RomantoInteger\RomantoInteger\bin\Debug\netcoreapp3.1\RomantoInteger.deps.json
+C:\Users\khush\source\repos\RomantoInteger\RomantoInteger\bin\Debug\netcoreapp3.1\RomantoInteger.runtimeconfig.json
+C:\Users\khush\source\repos\RomantoInteger\RomantoInteger\bin\Debug\netcoreapp3.1\RomantoInteger.runtimeconfig.dev.json
+C:\Users\khush\source\repos\RomantoInteger\RomantoInteger\bin\Debug\netcoreapp3.1\RomantoInteger.dll
+C:\Users\khush\source\repos\RomantoInteger\RomantoInteger\bin\Debug\netcoreapp3.1\RomantoInteger.pdb
+C:\Users\khush\source\repos\RomantoInteger\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\RomantoInteger\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\RomantoInteger\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.AssemblyInfo.cs
+C:\Users\khush\source\repos\RomantoInteger\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\RomantoInteger\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.dll
+C:\Users\khush\source\repos\RomantoInteger\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.pdb
+C:\Users\khush\source\repos\RomantoInteger\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\StringToIntegers\StringToIntegers\bin\Debug\netcoreapp3.1\StringToIntegers.exe
+C:\Users\khush\source\repos\StringToIntegers\StringToIntegers\bin\Debug\netcoreapp3.1\StringToIntegers.deps.json
+C:\Users\khush\source\repos\StringToIntegers\StringToIntegers\bin\Debug\netcoreapp3.1\StringToIntegers.runtimeconfig.json
+C:\Users\khush\source\repos\StringToIntegers\StringToIntegers\bin\Debug\netcoreapp3.1\StringToIntegers.runtimeconfig.dev.json
+C:\Users\khush\source\repos\StringToIntegers\StringToIntegers\bin\Debug\netcoreapp3.1\StringToIntegers.dll
+C:\Users\khush\source\repos\StringToIntegers\StringToIntegers\bin\Debug\netcoreapp3.1\StringToIntegers.pdb
+C:\Users\khush\source\repos\StringToIntegers\StringToIntegers\obj\Debug\netcoreapp3.1\StringToIntegers.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\StringToIntegers\StringToIntegers\obj\Debug\netcoreapp3.1\StringToIntegers.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\StringToIntegers\StringToIntegers\obj\Debug\netcoreapp3.1\StringToIntegers.AssemblyInfo.cs
+C:\Users\khush\source\repos\StringToIntegers\StringToIntegers\obj\Debug\netcoreapp3.1\StringToIntegers.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\StringToIntegers\StringToIntegers\obj\Debug\netcoreapp3.1\StringToIntegers.dll
+C:\Users\khush\source\repos\StringToIntegers\StringToIntegers\obj\Debug\netcoreapp3.1\StringToIntegers.pdb
+C:\Users\khush\source\repos\StringToIntegers\StringToIntegers\obj\Debug\netcoreapp3.1\StringToIntegers.genruntimeconfig.cache

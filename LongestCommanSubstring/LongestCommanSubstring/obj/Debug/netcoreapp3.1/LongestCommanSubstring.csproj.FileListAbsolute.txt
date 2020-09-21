@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\LongestCommanSubstring\LongestCommanSubstring\bin\Debug\netcoreapp3.1\LongestCommanSubstring.exe
+C:\Users\khush\source\repos\LongestCommanSubstring\LongestCommanSubstring\bin\Debug\netcoreapp3.1\LongestCommanSubstring.deps.json
+C:\Users\khush\source\repos\LongestCommanSubstring\LongestCommanSubstring\bin\Debug\netcoreapp3.1\LongestCommanSubstring.runtimeconfig.json
+C:\Users\khush\source\repos\LongestCommanSubstring\LongestCommanSubstring\bin\Debug\netcoreapp3.1\LongestCommanSubstring.runtimeconfig.dev.json
+C:\Users\khush\source\repos\LongestCommanSubstring\LongestCommanSubstring\bin\Debug\netcoreapp3.1\LongestCommanSubstring.dll
+C:\Users\khush\source\repos\LongestCommanSubstring\LongestCommanSubstring\bin\Debug\netcoreapp3.1\LongestCommanSubstring.pdb
+C:\Users\khush\source\repos\LongestCommanSubstring\LongestCommanSubstring\obj\Debug\netcoreapp3.1\LongestCommanSubstring.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\LongestCommanSubstring\LongestCommanSubstring\obj\Debug\netcoreapp3.1\LongestCommanSubstring.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\LongestCommanSubstring\LongestCommanSubstring\obj\Debug\netcoreapp3.1\LongestCommanSubstring.AssemblyInfo.cs
+C:\Users\khush\source\repos\LongestCommanSubstring\LongestCommanSubstring\obj\Debug\netcoreapp3.1\LongestCommanSubstring.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\LongestCommanSubstring\LongestCommanSubstring\obj\Debug\netcoreapp3.1\LongestCommanSubstring.dll
+C:\Users\khush\source\repos\LongestCommanSubstring\LongestCommanSubstring\obj\Debug\netcoreapp3.1\LongestCommanSubstring.pdb
+C:\Users\khush\source\repos\LongestCommanSubstring\LongestCommanSubstring\obj\Debug\netcoreapp3.1\LongestCommanSubstring.genruntimeconfig.cache

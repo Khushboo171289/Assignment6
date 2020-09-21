@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\StringRotation\StringRotation\bin\Debug\netcoreapp3.1\StringRotation.exe
+C:\Users\khush\source\repos\StringRotation\StringRotation\bin\Debug\netcoreapp3.1\StringRotation.deps.json
+C:\Users\khush\source\repos\StringRotation\StringRotation\bin\Debug\netcoreapp3.1\StringRotation.runtimeconfig.json
+C:\Users\khush\source\repos\StringRotation\StringRotation\bin\Debug\netcoreapp3.1\StringRotation.runtimeconfig.dev.json
+C:\Users\khush\source\repos\StringRotation\StringRotation\bin\Debug\netcoreapp3.1\StringRotation.dll
+C:\Users\khush\source\repos\StringRotation\StringRotation\bin\Debug\netcoreapp3.1\StringRotation.pdb
+C:\Users\khush\source\repos\StringRotation\StringRotation\obj\Debug\netcoreapp3.1\StringRotation.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\StringRotation\StringRotation\obj\Debug\netcoreapp3.1\StringRotation.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\StringRotation\StringRotation\obj\Debug\netcoreapp3.1\StringRotation.AssemblyInfo.cs
+C:\Users\khush\source\repos\StringRotation\StringRotation\obj\Debug\netcoreapp3.1\StringRotation.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\StringRotation\StringRotation\obj\Debug\netcoreapp3.1\StringRotation.dll
+C:\Users\khush\source\repos\StringRotation\StringRotation\obj\Debug\netcoreapp3.1\StringRotation.pdb
+C:\Users\khush\source\repos\StringRotation\StringRotation\obj\Debug\netcoreapp3.1\StringRotation.genruntimeconfig.cache

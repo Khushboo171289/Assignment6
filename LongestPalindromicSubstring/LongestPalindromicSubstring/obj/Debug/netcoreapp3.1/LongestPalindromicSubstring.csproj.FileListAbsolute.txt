@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\LongestPalindromicSubstring\LongestPalindromicSubstring\bin\Debug\netcoreapp3.1\LongestPalindromicSubstring.exe
+C:\Users\khush\source\repos\LongestPalindromicSubstring\LongestPalindromicSubstring\bin\Debug\netcoreapp3.1\LongestPalindromicSubstring.deps.json
+C:\Users\khush\source\repos\LongestPalindromicSubstring\LongestPalindromicSubstring\bin\Debug\netcoreapp3.1\LongestPalindromicSubstring.runtimeconfig.json
+C:\Users\khush\source\repos\LongestPalindromicSubstring\LongestPalindromicSubstring\bin\Debug\netcoreapp3.1\LongestPalindromicSubstring.runtimeconfig.dev.json
+C:\Users\khush\source\repos\LongestPalindromicSubstring\LongestPalindromicSubstring\bin\Debug\netcoreapp3.1\LongestPalindromicSubstring.dll
+C:\Users\khush\source\repos\LongestPalindromicSubstring\LongestPalindromicSubstring\bin\Debug\netcoreapp3.1\LongestPalindromicSubstring.pdb
+C:\Users\khush\source\repos\LongestPalindromicSubstring\LongestPalindromicSubstring\obj\Debug\netcoreapp3.1\LongestPalindromicSubstring.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\LongestPalindromicSubstring\LongestPalindromicSubstring\obj\Debug\netcoreapp3.1\LongestPalindromicSubstring.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\LongestPalindromicSubstring\LongestPalindromicSubstring\obj\Debug\netcoreapp3.1\LongestPalindromicSubstring.AssemblyInfo.cs
+C:\Users\khush\source\repos\LongestPalindromicSubstring\LongestPalindromicSubstring\obj\Debug\netcoreapp3.1\LongestPalindromicSubstring.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\LongestPalindromicSubstring\LongestPalindromicSubstring\obj\Debug\netcoreapp3.1\LongestPalindromicSubstring.dll
+C:\Users\khush\source\repos\LongestPalindromicSubstring\LongestPalindromicSubstring\obj\Debug\netcoreapp3.1\LongestPalindromicSubstring.pdb
+C:\Users\khush\source\repos\LongestPalindromicSubstring\LongestPalindromicSubstring\obj\Debug\netcoreapp3.1\LongestPalindromicSubstring.genruntimeconfig.cache
